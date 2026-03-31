@@ -19,4 +19,4 @@ Through my journey, I am eager to develop the skills needed to be a SOC Analyst,
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Wazuh Monitoring and Implementation (SIEM)    | <a href="https://google.com">Wazuh SIEM Lab</a>|
+| Wazuh Monitoring and Implementation (SIEM)    | <a href="https://github.com/ntrbambii/wazuh-siem-lab">Wazuh SIEM Lab</a>|
